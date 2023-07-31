@@ -7,3 +7,4 @@ Depicts the number of claims, estimation of payouts by claims, and actual payout
 
 Claim fees are charged to the office to send claims electronically using ClaimConnect as a portal through OpenDental to DentalXChange.
 
+Explains to the reader which insurance companies are most used / insurance plan most utilized by patients. 
